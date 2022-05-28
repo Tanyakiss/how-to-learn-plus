@@ -1,5 +1,5 @@
 body{
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', 'Arial', sans-serif;
   font-weight: bold;
 }
 
@@ -11,5 +11,5 @@ body{
   /* выше установили ограничение по максимальной ширине */
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family:  'Inter', 'Arial', sans-serif;
 }
