@@ -25,3 +25,10 @@
 @import url(../blocks/cards/__item-img/cards__item-img.css);
 @import url(../blocks/cards/__item-title/card__item-title.css);
 @import url(../blocks/cards/__item-description/card__item-description.css);
+
+@import url(../blocks/digits/digits.css);
+
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__heading/table__heading.css);
+@import url(../blocks/table/__text/table__text.css);
