@@ -14,3 +14,12 @@
 @import url(../blocks/description/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/description/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/description/two-columns/__span-accent/two-columns__span-accent.css);
+
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/techniques/__title/techniques__title.css);
+@import url(../blocks/techniques/__subtitle/techniques__subtitle.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__item-img/cards__item-img.css);
+@import url(../blocks/cards/__item-title/card__item-title.css);
+@import url(../blocks/cards/__item-description/card__item-description.css);

@@ -1,0 +1,10 @@
+.techniques__title {
+  display: flex;
+  justify-content: center;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+  margin: 0 auto 20px;
+  width: 60%;
+  position: relative;
+}
