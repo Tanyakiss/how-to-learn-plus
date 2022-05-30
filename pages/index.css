@@ -60,3 +60,7 @@
 @import url(../blocks/link/link.css);
 
 @import url(../blocks/rotation/rotation.css);
+
+@import url(../blocks/video/video.css);
+@import url(../blocks/video/__frames/video__frames.css);
+@import url(../blocks/video//__frames__items/video__iframes__items.css);
