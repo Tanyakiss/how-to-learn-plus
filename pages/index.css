@@ -56,3 +56,5 @@
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__logo/footer__logo.css);
 @import url(../blocks/footer/__social-icon/footer__social-icon.css);
+
+@import url(../blocks/link/link.css);
