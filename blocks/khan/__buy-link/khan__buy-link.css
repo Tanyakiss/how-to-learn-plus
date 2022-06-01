@@ -1,8 +1,9 @@
-.khan__book-link {
+.khan__buy-link {
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
   text-decoration: none;
   margin: 0;
   height: fit-content;
+  color: #2f80ed;
 }
