@@ -8,4 +8,5 @@
   width: 60%;
   position: relative;
   padding-top: 100px;
+  z-index: 3;
 }
